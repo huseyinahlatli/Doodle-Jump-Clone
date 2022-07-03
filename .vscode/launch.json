@@ -1,0 +1,54 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Unity Editor",
+            "type": "unity",
+            "path": "/c:/Users/imdvlpr/Desktop/Unity 18.04.22/6. Haziran/2206_Doodle_Jump_Clone/Library/EditorInstance.json",
+            "request": "launch"
+        },
+        {
+            "name": "Windows Player",
+            "type": "unity",
+            "request": "launch"
+        },
+        {
+            "name": "OSX Player",
+            "type": "unity",
+            "request": "launch"
+        },
+        {
+            "name": "Linux Player",
+            "type": "unity",
+            "request": "launch"
+        },
+        {
+            "name": "iOS Player",
+            "type": "unity",
+            "request": "launch"
+        },
+        {
+            "name": "Android Player",
+            "type": "unity",
+            "request": "launch"
+        },
+        {
+            "name": "Xbox One Player",
+            "type": "unity",
+            "request": "launch"
+        },
+        {
+            "name": "PS4 Player",
+            "type": "unity",
+            "request": "launch"
+        },
+        {
+            "name": "SwitchPlayer",
+            "type": "unity",
+            "request": "launch"
+        }
+    ]
+}
